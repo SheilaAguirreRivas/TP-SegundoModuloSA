@@ -6,6 +6,8 @@ TRABAJO PRÁCTICO - Segundo Módulo de Programación Avanzada para Ciencia de Da
 Este proyecto corresponde al Trabajo Práctico sobre ciclo completo de datos.  
 Se trabaja con el dataset **GAVADE**, que contiene información sobre medicamentos, precios de referencia (PVP PAMI), cobertura y el importe que abonan los afiliados.
 
+https://datos.gob.ar/dataset/pami-listado-precios-medicamentos-para-entidades/archivo/pami_e72a9026-a971-46c1-b828-2638b2b2be37
+
 El objetivo es:
 1. Obtener y limpiar el dataset.
 2. Almacenarlo en una base de datos SQLite.
